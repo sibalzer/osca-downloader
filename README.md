@@ -9,7 +9,6 @@ Playwright automation that downloads all files from your courses at the Universi
 #### Install
 ```bash
 pip install -r requirements.txt
-pip install playwright
 playwright install
 ```
 
